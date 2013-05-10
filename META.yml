@@ -24,7 +24,7 @@ requires:
 resources:
   homepage: https://github.com/mkandel/Software-License-Apathyware
   repository: https://github.com/mkandel/https://github.com/mkandel/Software-License-Apathyware.git.git
-version: 0.0.1
+version: 0.0.2
 x_Dist_Zilla:
   perl:
     version: 5.016003

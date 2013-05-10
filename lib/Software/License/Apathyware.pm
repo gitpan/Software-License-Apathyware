@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Software::License::Apathyware;
 {
-  $Software::License::Apathyware::VERSION = '0.0.1';
+  $Software::License::Apathyware::VERSION = '0.0.2';
 }
 
 use base 'Software::License';
@@ -24,7 +24,7 @@ Software::License::Apathyware - Apathyware License
 
 =head1 VERSION
 
-version 0.0.1
+version 0.0.2
 
 =head1 NAME
 
@@ -32,7 +32,7 @@ Software::License::Apathyware - Apathyware License
 
 =head1 VERSION
 
-version 0.0.1
+version 0.0.2
 
 =head1 AUTHOR
 
